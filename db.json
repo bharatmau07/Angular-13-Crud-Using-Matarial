@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Bharat kumar",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 120,
+      "comment": "Test",
+      "date": "2022-07-23T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "test",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 1455,
+      "comment": "Test",
+      "date": "2022-07-24T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
